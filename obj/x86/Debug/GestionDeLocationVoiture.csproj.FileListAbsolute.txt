@@ -1,0 +1,155 @@
+C:\Users\AB_OL\Documents\Visual Studio 2012\Projects\GestionDeLocationVoiture\GestionDeLocationVoiture\bin\x86\Debug\GestionDeLocationVoiture.exe.config
+C:\Users\AB_OL\Documents\Visual Studio 2012\Projects\GestionDeLocationVoiture\GestionDeLocationVoiture\bin\x86\Debug\View\Login\UCSignup.resx
+C:\Users\AB_OL\Documents\Visual Studio 2012\Projects\GestionDeLocationVoiture\GestionDeLocationVoiture\bin\x86\Debug\View\Login\UCSignup.cs
+C:\Users\AB_OL\Documents\Visual Studio 2012\Projects\GestionDeLocationVoiture\GestionDeLocationVoiture\bin\x86\Debug\View\Login\UCSignup.Designer.cs
+C:\Users\AB_OL\Documents\Visual Studio 2012\Projects\GestionDeLocationVoiture\GestionDeLocationVoiture\bin\x86\Debug\GestionDeLocationVoiture.exe
+C:\Users\AB_OL\Documents\Visual Studio 2012\Projects\GestionDeLocationVoiture\GestionDeLocationVoiture\bin\x86\Debug\GestionDeLocationVoiture.pdb
+C:\Users\AB_OL\Documents\Visual Studio 2012\Projects\GestionDeLocationVoiture\GestionDeLocationVoiture\bin\x86\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\AB_OL\Documents\Visual Studio 2012\Projects\GestionDeLocationVoiture\GestionDeLocationVoiture\bin\x86\Debug\MetroFramework.dll
+C:\Users\AB_OL\Documents\Visual Studio 2012\Projects\GestionDeLocationVoiture\GestionDeLocationVoiture\bin\x86\Debug\OlDeveloper.dll
+C:\Users\AB_OL\Documents\Visual Studio 2012\Projects\GestionDeLocationVoiture\GestionDeLocationVoiture\bin\x86\Debug\theme.dll
+C:\Users\AB_OL\Documents\Visual Studio 2012\Projects\GestionDeLocationVoiture\GestionDeLocationVoiture\bin\x86\Debug\TouchlessLib.dll
+C:\Users\AB_OL\Documents\Visual Studio 2012\Projects\GestionDeLocationVoiture\GestionDeLocationVoiture\bin\x86\Debug\OlDeveloper.pdb
+C:\Users\AB_OL\Documents\Visual Studio 2012\Projects\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.csprojResolveAssemblyReference.cache
+C:\Users\AB_OL\Documents\Visual Studio 2012\Projects\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Admin.AdminMain_Form.resources
+C:\Users\AB_OL\Documents\Visual Studio 2012\Projects\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Admin.UCAdd_Managers.resources
+C:\Users\AB_OL\Documents\Visual Studio 2012\Projects\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Admin.UCDeleteClient.resources
+C:\Users\AB_OL\Documents\Visual Studio 2012\Projects\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Admin.UCPushPromotion.resources
+C:\Users\AB_OL\Documents\Visual Studio 2012\Projects\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Client.dateDeo.resources
+C:\Users\AB_OL\Documents\Visual Studio 2012\Projects\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Gestionnaire.GestionnaireMainForm.resources
+C:\Users\AB_OL\Documents\Visual Studio 2012\Projects\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Gestionnaire.PrintBill.resources
+C:\Users\AB_OL\Documents\Visual Studio 2012\Projects\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Gestionnaire.UCAddCar.resources
+C:\Users\AB_OL\Documents\Visual Studio 2012\Projects\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Gestionnaire.UCPostBill.resources
+C:\Users\AB_OL\Documents\Visual Studio 2012\Projects\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Gestionnaire.UCRemoveCar.resources
+C:\Users\AB_OL\Documents\Visual Studio 2012\Projects\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Gestionnaire.cin.resources
+C:\Users\AB_OL\Documents\Visual Studio 2012\Projects\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Gestionnaire.USShowAviable.resources
+C:\Users\AB_OL\Documents\Visual Studio 2012\Projects\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.Login.resources
+C:\Users\AB_OL\Documents\Visual Studio 2012\Projects\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.Properties.Resources.resources
+C:\Users\AB_OL\Documents\Visual Studio 2012\Projects\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Client.ClientMainForms.resources
+C:\Users\AB_OL\Documents\Visual Studio 2012\Projects\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Client.UCFactureClient.resources
+C:\Users\AB_OL\Documents\Visual Studio 2012\Projects\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Client.UCNotificationClient.resources
+C:\Users\AB_OL\Documents\Visual Studio 2012\Projects\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Client.UCSearchCarByClient.resources
+C:\Users\AB_OL\Documents\Visual Studio 2012\Projects\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Client.UCSettingForClient.resources
+C:\Users\AB_OL\Documents\Visual Studio 2012\Projects\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Client.UCShowCarByClient.resources
+C:\Users\AB_OL\Documents\Visual Studio 2012\Projects\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Login.UCSignup.resources
+C:\Users\AB_OL\Documents\Visual Studio 2012\Projects\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.csproj.GenerateResource.Cache
+C:\Users\AB_OL\Documents\Visual Studio 2012\Projects\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.exe
+C:\Users\AB_OL\Documents\Visual Studio 2012\Projects\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.pdb
+C:\Users\AB_OL\Desktop\GestionDeLocationVoiture\GestionDeLocationVoiture\bin\x86\Debug\View\Login\UCSignup.resx
+C:\Users\AB_OL\Desktop\GestionDeLocationVoiture\GestionDeLocationVoiture\bin\x86\Debug\View\Login\UCSignup.cs
+C:\Users\AB_OL\Desktop\GestionDeLocationVoiture\GestionDeLocationVoiture\bin\x86\Debug\View\Login\UCSignup.Designer.cs
+C:\Users\AB_OL\Desktop\GestionDeLocationVoiture\GestionDeLocationVoiture\bin\x86\Debug\GestionDeLocationVoiture.exe.config
+C:\Users\AB_OL\Desktop\GestionDeLocationVoiture\GestionDeLocationVoiture\bin\x86\Debug\GestionDeLocationVoiture.exe
+C:\Users\AB_OL\Desktop\GestionDeLocationVoiture\GestionDeLocationVoiture\bin\x86\Debug\GestionDeLocationVoiture.pdb
+C:\Users\AB_OL\Desktop\GestionDeLocationVoiture\GestionDeLocationVoiture\bin\x86\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\AB_OL\Desktop\GestionDeLocationVoiture\GestionDeLocationVoiture\bin\x86\Debug\MetroFramework.dll
+C:\Users\AB_OL\Desktop\GestionDeLocationVoiture\GestionDeLocationVoiture\bin\x86\Debug\OlDeveloper.dll
+C:\Users\AB_OL\Desktop\GestionDeLocationVoiture\GestionDeLocationVoiture\bin\x86\Debug\theme.dll
+C:\Users\AB_OL\Desktop\GestionDeLocationVoiture\GestionDeLocationVoiture\bin\x86\Debug\TouchlessLib.dll
+C:\Users\AB_OL\Desktop\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Admin.AdminMain_Form.resources
+C:\Users\AB_OL\Desktop\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Admin.UCAdd_Managers.resources
+C:\Users\AB_OL\Desktop\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Admin.UCDeleteClient.resources
+C:\Users\AB_OL\Desktop\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Admin.UCPushPromotion.resources
+C:\Users\AB_OL\Desktop\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Client.dateDeo.resources
+C:\Users\AB_OL\Desktop\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Gestionnaire.GestionnaireMainForm.resources
+C:\Users\AB_OL\Desktop\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Gestionnaire.PrintBill.resources
+C:\Users\AB_OL\Desktop\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Gestionnaire.UCAddCar.resources
+C:\Users\AB_OL\Desktop\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Gestionnaire.UCPostBill.resources
+C:\Users\AB_OL\Desktop\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Gestionnaire.UCRemoveCar.resources
+C:\Users\AB_OL\Desktop\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Gestionnaire.cin.resources
+C:\Users\AB_OL\Desktop\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Gestionnaire.USShowAviable.resources
+C:\Users\AB_OL\Desktop\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.Login.resources
+C:\Users\AB_OL\Desktop\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.Properties.Resources.resources
+C:\Users\AB_OL\Desktop\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Client.ClientMainForms.resources
+C:\Users\AB_OL\Desktop\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Client.UCFactureClient.resources
+C:\Users\AB_OL\Desktop\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Client.UCNotificationClient.resources
+C:\Users\AB_OL\Desktop\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Client.UCSearchCarByClient.resources
+C:\Users\AB_OL\Desktop\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Client.UCSettingForClient.resources
+C:\Users\AB_OL\Desktop\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Client.UCShowCarByClient.resources
+C:\Users\AB_OL\Desktop\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Login.UCSignup.resources
+C:\Users\AB_OL\Desktop\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.csproj.GenerateResource.Cache
+C:\Users\AB_OL\Desktop\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.exe
+C:\Users\AB_OL\Desktop\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.pdb
+C:\Users\AB_OL\Desktop\GestionDeLocationVoiture\GestionDeLocationVoiture\bin\x86\Debug\OlDeveloper.pdb
+C:\Users\AB_OL\Desktop\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.csprojResolveAssemblyReference.cache
+C:\Users\AB_OL\Desktop\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Login.InitialAdmin.resources
+C:\Users\AB_OL\Desktop\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Login.licence.resources
+C:\Users\AB_OL\Desktop\mini projionect locat\GestionDeLocationVoiture\GestionDeLocationVoiture\bin\x86\Debug\GestionDeLocationVoiture.exe.config
+C:\Users\AB_OL\Desktop\mini projionect locat\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.exe
+C:\Users\AB_OL\Desktop\mini projionect locat\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.pdb
+C:\Users\AB_OL\Desktop\mini projionect locat\GestionDeLocationVoiture\GestionDeLocationVoiture\bin\x86\Debug\View\Login\UCSignup.resx
+C:\Users\AB_OL\Desktop\mini projionect locat\GestionDeLocationVoiture\GestionDeLocationVoiture\bin\x86\Debug\View\Login\UCSignup.cs
+C:\Users\AB_OL\Desktop\mini projionect locat\GestionDeLocationVoiture\GestionDeLocationVoiture\bin\x86\Debug\View\Login\UCSignup.Designer.cs
+C:\Users\AB_OL\Desktop\mini projionect locat\GestionDeLocationVoiture\GestionDeLocationVoiture\bin\x86\Debug\GestionDeLocationVoiture.exe
+C:\Users\AB_OL\Desktop\mini projionect locat\GestionDeLocationVoiture\GestionDeLocationVoiture\bin\x86\Debug\GestionDeLocationVoiture.pdb
+C:\Users\AB_OL\Desktop\mini projionect locat\GestionDeLocationVoiture\GestionDeLocationVoiture\bin\x86\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\AB_OL\Desktop\mini projionect locat\GestionDeLocationVoiture\GestionDeLocationVoiture\bin\x86\Debug\MetroFramework.dll
+C:\Users\AB_OL\Desktop\mini projionect locat\GestionDeLocationVoiture\GestionDeLocationVoiture\bin\x86\Debug\theme.dll
+C:\Users\AB_OL\Desktop\mini projionect locat\GestionDeLocationVoiture\GestionDeLocationVoiture\bin\x86\Debug\TouchlessLib.dll
+C:\Users\AB_OL\Desktop\mini projionect locat\GestionDeLocationVoiture\GestionDeLocationVoiture\bin\x86\Debug\OlDeveloper.pdb
+C:\Users\AB_OL\Desktop\mini projionect locat\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.csprojResolveAssemblyReference.cache
+C:\Users\AB_OL\Desktop\mini projionect locat\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Admin.AdminMain_Form.resources
+C:\Users\AB_OL\Desktop\mini projionect locat\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Admin.UCAdd_Managers.resources
+C:\Users\AB_OL\Desktop\mini projionect locat\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Admin.UCDeleteClient.resources
+C:\Users\AB_OL\Desktop\mini projionect locat\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Admin.UCPushPromotion.resources
+C:\Users\AB_OL\Desktop\mini projionect locat\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Client.dateDeo.resources
+C:\Users\AB_OL\Desktop\mini projionect locat\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Gestionnaire.GestionnaireMainForm.resources
+C:\Users\AB_OL\Desktop\mini projionect locat\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Gestionnaire.PrintBill.resources
+C:\Users\AB_OL\Desktop\mini projionect locat\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Gestionnaire.UCAddCar.resources
+C:\Users\AB_OL\Desktop\mini projionect locat\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Gestionnaire.UCPostBill.resources
+C:\Users\AB_OL\Desktop\mini projionect locat\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Gestionnaire.UCRemoveCar.resources
+C:\Users\AB_OL\Desktop\mini projionect locat\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Gestionnaire.cin.resources
+C:\Users\AB_OL\Desktop\mini projionect locat\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Gestionnaire.USShowAviable.resources
+C:\Users\AB_OL\Desktop\mini projionect locat\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Login.InitialAdmin.resources
+C:\Users\AB_OL\Desktop\mini projionect locat\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Login.licence.resources
+C:\Users\AB_OL\Desktop\mini projionect locat\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.Login.resources
+C:\Users\AB_OL\Desktop\mini projionect locat\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.Properties.Resources.resources
+C:\Users\AB_OL\Desktop\mini projionect locat\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Client.ClientMainForms.resources
+C:\Users\AB_OL\Desktop\mini projionect locat\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Client.UCFactureClient.resources
+C:\Users\AB_OL\Desktop\mini projionect locat\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Client.UCNotificationClient.resources
+C:\Users\AB_OL\Desktop\mini projionect locat\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Client.UCSearchCarByClient.resources
+C:\Users\AB_OL\Desktop\mini projionect locat\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Client.UCSettingForClient.resources
+C:\Users\AB_OL\Desktop\mini projionect locat\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Client.UCShowCarByClient.resources
+C:\Users\AB_OL\Desktop\mini projionect locat\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Login.UCSignup.resources
+C:\Users\AB_OL\Desktop\mini projionect locat\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.csproj.GenerateResource.Cache
+C:\Users\AB_OL\Desktop\Mini Project Abdellah Oulahyane\GestionDeLocationVoiture\GestionDeLocationVoiture\bin\x86\Debug\GestionDeLocationVoiture.exe.config
+C:\Users\AB_OL\Desktop\Mini Project Abdellah Oulahyane\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.exe
+C:\Users\AB_OL\Desktop\Mini Project Abdellah Oulahyane\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.pdb
+C:\Users\AB_OL\Desktop\Mini Project Abdellah Oulahyane\GestionDeLocationVoiture\GestionDeLocationVoiture\bin\x86\Debug\View\Login\UCSignup.resx
+C:\Users\AB_OL\Desktop\Mini Project Abdellah Oulahyane\GestionDeLocationVoiture\GestionDeLocationVoiture\bin\x86\Debug\View\Login\UCSignup.cs
+C:\Users\AB_OL\Desktop\Mini Project Abdellah Oulahyane\GestionDeLocationVoiture\GestionDeLocationVoiture\bin\x86\Debug\View\Login\UCSignup.Designer.cs
+C:\Users\AB_OL\Desktop\Mini Project Abdellah Oulahyane\GestionDeLocationVoiture\GestionDeLocationVoiture\bin\x86\Debug\GestionDeLocationVoiture.exe
+C:\Users\AB_OL\Desktop\Mini Project Abdellah Oulahyane\GestionDeLocationVoiture\GestionDeLocationVoiture\bin\x86\Debug\GestionDeLocationVoiture.pdb
+C:\Users\AB_OL\Desktop\Mini Project Abdellah Oulahyane\GestionDeLocationVoiture\GestionDeLocationVoiture\bin\x86\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\AB_OL\Desktop\Mini Project Abdellah Oulahyane\GestionDeLocationVoiture\GestionDeLocationVoiture\bin\x86\Debug\MetroFramework.dll
+C:\Users\AB_OL\Desktop\Mini Project Abdellah Oulahyane\GestionDeLocationVoiture\GestionDeLocationVoiture\bin\x86\Debug\theme.dll
+C:\Users\AB_OL\Desktop\Mini Project Abdellah Oulahyane\GestionDeLocationVoiture\GestionDeLocationVoiture\bin\x86\Debug\TouchlessLib.dll
+C:\Users\AB_OL\Desktop\Mini Project Abdellah Oulahyane\GestionDeLocationVoiture\GestionDeLocationVoiture\bin\x86\Debug\OlDeveloper.pdb
+C:\Users\AB_OL\Desktop\Mini Project Abdellah Oulahyane\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.csprojResolveAssemblyReference.cache
+C:\Users\AB_OL\Desktop\Mini Project Abdellah Oulahyane\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Admin.AdminMain_Form.resources
+C:\Users\AB_OL\Desktop\Mini Project Abdellah Oulahyane\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Admin.UCAdd_Managers.resources
+C:\Users\AB_OL\Desktop\Mini Project Abdellah Oulahyane\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Admin.UCDeleteClient.resources
+C:\Users\AB_OL\Desktop\Mini Project Abdellah Oulahyane\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Admin.UCPushPromotion.resources
+C:\Users\AB_OL\Desktop\Mini Project Abdellah Oulahyane\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Client.dateDeo.resources
+C:\Users\AB_OL\Desktop\Mini Project Abdellah Oulahyane\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Gestionnaire.GestionnaireMainForm.resources
+C:\Users\AB_OL\Desktop\Mini Project Abdellah Oulahyane\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Gestionnaire.PrintBill.resources
+C:\Users\AB_OL\Desktop\Mini Project Abdellah Oulahyane\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Gestionnaire.UCAddCar.resources
+C:\Users\AB_OL\Desktop\Mini Project Abdellah Oulahyane\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Gestionnaire.UCPostBill.resources
+C:\Users\AB_OL\Desktop\Mini Project Abdellah Oulahyane\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Gestionnaire.UCRemoveCar.resources
+C:\Users\AB_OL\Desktop\Mini Project Abdellah Oulahyane\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Gestionnaire.cin.resources
+C:\Users\AB_OL\Desktop\Mini Project Abdellah Oulahyane\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Gestionnaire.USShowAviable.resources
+C:\Users\AB_OL\Desktop\Mini Project Abdellah Oulahyane\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Login.InitialAdmin.resources
+C:\Users\AB_OL\Desktop\Mini Project Abdellah Oulahyane\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Login.licence.resources
+C:\Users\AB_OL\Desktop\Mini Project Abdellah Oulahyane\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.Login.resources
+C:\Users\AB_OL\Desktop\Mini Project Abdellah Oulahyane\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.Properties.Resources.resources
+C:\Users\AB_OL\Desktop\Mini Project Abdellah Oulahyane\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Client.ClientMainForms.resources
+C:\Users\AB_OL\Desktop\Mini Project Abdellah Oulahyane\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Client.UCFactureClient.resources
+C:\Users\AB_OL\Desktop\Mini Project Abdellah Oulahyane\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Client.UCNotificationClient.resources
+C:\Users\AB_OL\Desktop\Mini Project Abdellah Oulahyane\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Client.UCSearchCarByClient.resources
+C:\Users\AB_OL\Desktop\Mini Project Abdellah Oulahyane\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Client.UCSettingForClient.resources
+C:\Users\AB_OL\Desktop\Mini Project Abdellah Oulahyane\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Client.UCShowCarByClient.resources
+C:\Users\AB_OL\Desktop\Mini Project Abdellah Oulahyane\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.View.Login.UCSignup.resources
+C:\Users\AB_OL\Desktop\Mini Project Abdellah Oulahyane\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.csproj.GenerateResource.Cache
+D:\Projects\Mini Project Abdellah Oulahyane\GestionDeLocationVoiture\GestionDeLocationVoiture\bin\x86\Debug\GestionDeLocationVoiture.exe.config
+D:\Projects\Mini Project Abdellah Oulahyane\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.exe
+D:\Projects\Mini Project Abdellah Oulahyane\GestionDeLocationVoiture\GestionDeLocationVoiture\obj\x86\Debug\GestionDeLocationVoiture.pdb
